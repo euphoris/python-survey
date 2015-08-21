@@ -27,11 +27,11 @@
 
 ### 주로 사용하시는 파이썬 에디터/IDE는 무엇입니까? *
 - [ ] IDLE
-- [ ] vi
-- [ ] emacs
+- [ ] Vim
+- [ ] Emacs
 - [ ] PyCharm
 - [ ] Eclipse
-- [ ] ipython notebook
+- [ ] IPython/Jupyter Notebook
 - [ ] 기타: 
 
 
@@ -50,17 +50,22 @@
 - [ ] redis 
 
 ### 다음 테스트 관련 라이브러리 중 최근 1년 이내에 사용하신 라이브러리를 모두 체크해주십시오
+- [ ] unittest
 - [ ] nose
 - [ ] pytest
 - [ ] coverage
 - [ ] pep8
-- [ ] tox 
+- [ ] flake8
+- [ ] pyflakes
+- [ ] pylint
+- [ ] tox
 
 ### 다음 개발환경 관련 라이브러리 중 최근 1년 이내에 사용하신 라이브러리를 모두 체크해주십시오
 - [ ] setuptools
-- [ ] distribute
 - [ ] virtualenv
-- [ ] pip 
+- [ ] pip
+- [ ] zc.buildout
+- [ ] anaconda
 
 ### 다음 데이터분석, 계산 관련 라이브러리 중 최근 1년 이내 사용하신 라이브러리를 모두 선택해주십시오
 - [ ] numpy
