@@ -44,10 +44,13 @@
 ## 라이브러리
 
 ### 다음 DB 관련 라이브러리 중 최근 1년 이내에 사용하신 라이브러리를 모두 체크해주십시오.
+- [ ] Django ORM
 - [ ] SQLAlchemy
+- [ ] peewee
+- [ ] Storm
 - [ ] psycopg2
 - [ ] MySQL-python
-- [ ] redis 
+- [ ] redis
 
 ### 다음 테스트 관련 라이브러리 중 최근 1년 이내에 사용하신 라이브러리를 모두 체크해주십시오
 - [ ] unittest
