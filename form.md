@@ -78,6 +78,24 @@
 - [ ] sympy
 - [ ] statmodels 
 
+### 다음 웹프레임워크 중 최근 1년 이내 사용하신 라이브러리를 모두 선택해주십시오
+[ ] aiohttp
+[ ] bottle
+[ ] django
+[ ] falcon
+[ ] flask
+[ ] muffin
+[ ] pyramid
+[ ] wheezy
+[ ] tornado
+
+### 다음 웹 관련 라이브러리 중 최근 1년 이내 사용하신 라이브러리를 모두 선택해주십시오
+- [ ] requests
+- [ ] Scrapy
+- [ ] lxml
+- [ ] BeautifulSoup
+- [ ] html5lib
+- [ ] selenium
 
 ### 직업
 - [ ] 학생
